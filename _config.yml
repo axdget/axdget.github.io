@@ -16,6 +16,6 @@ navigation:
   - title: Портфолио Дата-сайентиста (RU)
     url: /portfolioDS_ru/  
 
-sass:
-  style: compressed
-  sass_dir: assets/css   #  явное указание папки
+# sass:
+#   style: compressed
+#   sass_dir: assets/css   #  явное указание папки
