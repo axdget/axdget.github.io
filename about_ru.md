@@ -5,7 +5,7 @@ permalink: /about_ru/
 ---
 ### Обо мне (RU)
 
-**BI аналитик** | **Аналитик данных** | **Инженер данных** | **Дата-сайентист** | ***7+ лет в IT***
+**Аналитик данных**
 
 [![GitHub](https://img.shields.io/badge/GitHub-mishandri-181717?style=for-the-badge&logo=github)](https://github.com/mishandri)
 [![Telegram](https://img.shields.io/badge/Telegram-hexmikhail-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/hexmikhail)
@@ -16,17 +16,14 @@ permalink: /about_ru/
 
 - **Местоположение:** Краснодар, Россия
 - **Email:** [axd@gmail.com](mailto:kolcharma@gmail.com)
-- **Телефон:** +7-999-250-9045
+- **Телефон:** +7-918-39-55-287
 - **Telegram:** [@hexmikhail](https://t.me/hexmikhail)
 
 ---
 
 ## Обо мне
 
-В ИТ **больше 7 лет**. Из них **6 лет проработал в госсекторе системным администратором**, где основной моей болью и радостью была автоматизация отчетов через SQL. В 2025 году решил, что пора превратить это в основную профессию, и прошел интенсивную переподготовку.
-
-Сейчас помогаю бизнесу видеть свои данные: строю **ETL-пайплайны** (Airflow, Python), проектирую **витрины** и рисую **дашборды**. Люблю находить неочевидные закономерности. Занимаюсь визуализацией аналитики в Power BI, Yandex DataLens, AW BI и Visiology. Имею практические навыки в стандартизации метрик и устранении расхождений в данных. Способен эффективно переводить бизнес-задачи в технические требования и обратно, выстраивать архитектуру данных с нуля до визуализации.
-
+В................
 ---
 
 ## Опыт работы
@@ -71,11 +68,5 @@ permalink: /about_ru/
 
 ## Избранные проекты
 
-- **[DataLens Dashboard](https://datalens.ru/gallery/2gwxkkz3o5ian)**
-- **[DataLens Analytics](https://datalens.ru/gallery/gx1h48lns7le1)**
-- **[GitHub Portfolio DA](https://github.com/mishandri/Data-Analysis)**
 - **[GitHub Portfolio DS](https://github.com/mishandri/Data-Science)**
 
----
-
-*Обновлено: 04.2026*
