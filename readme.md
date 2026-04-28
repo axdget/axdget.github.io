@@ -2,9 +2,8 @@
 
 **Аналитик данных**
 
-[![GitHub](https://img.shields.io/badge/GitHub-axdget-181717?style=for-the-badge&logo=github)](https://github.com/axdget)
-[![Telegram](https://img.shields.io/badge/Telegram-axdtor-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/axdtor)
-
+[![GitHub](https://img.shields.io/static/v1?label=GitHub&message=axdget&color=181717&style=for-the-badge&logo=github)](https://github.com/axdget)
+[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=axdtor&color=26A5E4&style=for-the-badge&logo=telegram)](https://t.me/axdtor)
 ---
 
 ## Контакты
