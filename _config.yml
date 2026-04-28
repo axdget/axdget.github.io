@@ -9,12 +9,6 @@ defaults:
       layout: default
 
 navigation:
-  - title: About me (EN)
-    url: /
-  - title: Portfolio Data Analytics (EN)
-    url: /portfolioDA/
-  - title: Portfolio Data Analytics (EN)
-    url: /portfolioDS/
   - title: Обо мне (RU)
     url: /about_ru/
   - title: Портфолио Аналитика Данных (RU)
