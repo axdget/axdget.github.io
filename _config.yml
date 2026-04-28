@@ -11,7 +11,7 @@ defaults:
 navigation:
   - title: Обо мне (RU)
     url: /about_ru/
-  - title: Портфолио Аналитика Данных (RU)
+  - title: Портфолио Аналитика Данных (RU).
     url: /portfolioDA_ru/    
   - title: Портфолио Дата-сайентиста (RU)
     url: /portfolioDS_ru/  
