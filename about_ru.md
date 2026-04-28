@@ -15,9 +15,9 @@ permalink: /about_ru/
 ## Контакты
 
 - **Местоположение:** Краснодар, Россия
-- **Email:** [axd@gmail.com](mailto:kolcharma@gmail.com)
+- **Email:** [axdtor@gmail.com](mailto:axdtor@gmail.com)
 - **Телефон:** +7-918-39-55-287
-- **Telegram:** [@hexmikhail](https://t.me/hexmikhail)
+- **Telegram:** [@axdtor](https://t.me/axdtor)
 
 ---
 
