@@ -2,8 +2,8 @@
 
 **Аналитик данных**
 
-[![GitHub](GITHUB_AXDGET.svg)](https://github.com/axdget)
-[![Telegram](TELEGRAM_AXDGET.svg)](https://t.me/axdtor)
+[![GitHub]({{ site.baseurl }}/GITHUB_AXDGET.svg)](https://github.com/axdget)
+[![Telegram]({{ site.baseurl }}/TELEGRAM_AXDGET.svg)](https://t.me/axdtor)
 ---
 
 ## Контакты
