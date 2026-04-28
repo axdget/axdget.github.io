@@ -1,11 +1,9 @@
 ### Обо мне (RU)
 
 **Аналитик данных**
+
 [![GitHub](gitHub_axdget.svg)](https://github.com/axdget)
 [![GitHub](telega_axdtor.svg)](https://github.com/axdget)
-
-[![GitHub]({{ site.baseurl }}/GITHUB_AXDGET.svg)](https://github.com/axdget)
-[![Telegram]({{ site.baseurl }}/TELEGRAM_AXDGET.svg)](https://t.me/axdtor)
 ---
 
 ## Контакты
