@@ -1,5 +1,3 @@
-## Аналитик данных
-
 [![GitHub](gitHub_axdget.svg)](https://github.com/axdget)
 [![GitHub](telega_axdtor.svg)](https://github.com/axdget)
 
