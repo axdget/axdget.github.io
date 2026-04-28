@@ -16,8 +16,6 @@
 
 ---
 
----
-
 ## Опыт работы
 
 ### Денвик Аналитика — BI Аналитик
@@ -43,8 +41,6 @@
 *01.2025 — 10.2025 · 10 месяцев*
 
 **Портфолио:** [github.com/mishandri/Data-Analysis](https://github.com/mishandri/Data-Analysis)
-
----
 
 ---
 
