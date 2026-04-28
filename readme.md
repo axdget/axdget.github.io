@@ -1,5 +1,3 @@
-## Обо мне
-
 ## Аналитик данных
 
 [![GitHub](gitHub_axdget.svg)](https://github.com/axdget)
