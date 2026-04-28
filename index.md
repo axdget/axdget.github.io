@@ -1,8 +1,3 @@
----
-layout: default
-title: Обо мне
-permalink: /about_ru/
----
 ### Обо мне (RU)
 
 **Аналитик данных**
