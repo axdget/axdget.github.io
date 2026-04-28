@@ -3,31 +3,19 @@ layout: default
 title: Обо мне
 permalink: /about_ru/
 ---
-### [About me (EN)](/) | Обо мне (RU)
-
-### [Portfolio Data Analyst (EN)](/portfolioDA/) | [Портфолио Аналитика Данных (RU)](/portfolioDA_ru/)
-
-### [Portfolio Data Scientist (EN)](/portfolioDS/) | [Портфолио Дата-сайентиста (RU)](/portfolioDS_ru/)
-
-# Резюме
+### Обо мне (RU)
 
 **BI аналитик** | **Аналитик данных** | **Инженер данных** | **Дата-сайентист** | ***7+ лет в IT***
 
-***Автор телеграм-канала [@Null++](https://t.me/nullpp) для тех, кто хочет развиваться как Data Analyst, Data Engineer, BI-Analyst или Data Scientist***
-
 [![GitHub](https://img.shields.io/badge/GitHub-mishandri-181717?style=for-the-badge&logo=github)](https://github.com/mishandri)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mikhail_Kolchar-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mikhail-kolchar)
 [![Telegram](https://img.shields.io/badge/Telegram-hexmikhail-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/hexmikhail)
-[![TelegramCH](https://img.shields.io/badge/Telegram-null++-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/nullpp)
-[![Habr Career](https://img.shields.io/badge/Habr_Career-Mikhail_Kolchar-77A2B6?style=for-the-badge&logo=habr)](https://career.habr.com/mishandri)
-[![DataLens](https://img.shields.io/badge/DataLens-Portfolio-FF7800?style=for-the-badge&logo=yandex)](https://datalens.yandex/6eiukr5xyukyr)
 
 ---
 
 ## Контакты
 
-- **Местоположение:** Архангельск, Россия (Удалённо / Релокация)
-- **Email:** [kolcharma@gmail.com](mailto:kolcharma@gmail.com)
+- **Местоположение:** Краснодар, Россия
+- **Email:** [axd@gmail.com](mailto:kolcharma@gmail.com)
 - **Телефон:** +7-999-250-9045
 - **Telegram:** [@hexmikhail](https://t.me/hexmikhail)
 
@@ -78,60 +66,6 @@ permalink: /about_ru/
 **Портфолио:** [github.com/mishandri/Data-Analysis](https://github.com/mishandri/Data-Analysis)
 
 ---
-
-### Районный суд — Системный администратор
-
-*03.2019 — 07.2025 · 6 лет 5 месяцев*
-
-**Технологии:** SQL · Oracle SQL · MySQL · FirebirdSQL · Windows Server
-
-**Обязанности:**
-
-- Разработал и оптимизировал **50+ сложных SQL-запросов** для ad-hoc отчетности
-- Администрировал Windows Server (2003/2008/2012R2): Active Directory, Group Policy
-- Управлял резервным копированием (ПО, скрипты), настраивал мини-АТС
-- Проводил обучение сотрудников, готовил ежеквартальные и годовые отчеты
-
----
-
-### GeekBrains — Эксперт
-
-*08.2022 — 11.2023 · 1 год 4 месяца*
-
-**Технологии:** Python · NumPy · Matplotlib · Scikit-learn · Windows Server · WMI · PowerShell
-
-**Обязанности:**
-
-- Проводил курсы по Windows Server, WMI и PowerShell (вебинары, консультации)
-- Проверял домашние задания по библиотекам Python для Data Science (NumPy, Matplotlib, Scikit-learn)
-
----
-
-## Образование и сертификаты
-
-| Программа                                                                                               | Учебное заведение                                        | Период |
-| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------ |
-| **Инженер глубокого обучения нейросетей** (в процессе)          | Simulative                                                               | 2026         |
-| **Инженер машинного обучения** (в процессе)                               | Simulative                                                               | 2026         |
-| **Инженер данных** (Диплом)                                                             | Simulative                                                               | 2026         |
-| **Аналитик данных** (Диплом)                                                           | Simulative                                                               | 2025         |
-| **BI-аналитик** (Диплом)                                                                     | Simulative                                                               | 2025         |
-| **Аспирантура** — Геометрия и топология                                     | САФУ, Архангельск                                         | 2013–2016   |
-| **Магистратура** — Прикладная математика и информатика        | САФУ, Архангельск                                         | 2010–2012   |
-| **Специалитет** — Математика (специализация «Информатика») | Поморский государственный университет | 2005–2010   |
-
----
-
-## Технические навыки
-
-### Ключевые компетенции
-
-- **SQL:** PostgreSQL, ClickHouse, Oracle SQL, MySQL, FirebirdSQL
-- **BI и визуализация:** Power BI (DAX), DataLens, Superset, Metabase, Visiology
-- **ETL и инженерия данных:** Python, Airflow, Docker, Linux, Hadoop, Hive, Spark/pySpark
-- **Data Science и ML:** Scikit-learn, NumPy, Matplotlib, PyTorch (изучение), NLP, CV
-- **Продуктовая аналитика:** A/B-тестирование, продуктовые метрики, удержание (MAU/WAU/DAU), когортный анализ
-- **Прочее:** Git, 1С, Excel, администрирование Windows Server
 
 ---
 
